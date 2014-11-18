@@ -45,6 +45,10 @@
     <Model DeviceName="RM-942" FriendlyName="Lumia 625" />
     <Model DeviceName="RM-943" FriendlyName="Lumia 625" />
     <Model DeviceName="RM-846" FriendlyName="Lumia 620" />
+    <Model DeviceName="RM-1089" FriendlyName="Lumia 535" />
+    <Model DeviceName="RM-1090" FriendlyName="Lumia 535" />
+    <Model DeviceName="RM-1091" FriendlyName="Lumia 535" />
+    <Model DeviceName="RM-1092" FriendlyName="Lumia 535" />
     <Model DeviceName="RM-1020" FriendlyName="Lumia 530" />
     <Model DeviceName="RM-1019" FriendlyName="Lumia 530" />
     <Model DeviceName="RM-1018" FriendlyName="Lumia 530" />
