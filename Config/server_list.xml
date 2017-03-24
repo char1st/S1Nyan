@@ -1,8 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <Root>
   <Message></Message>
   <ServerList>
     <Server addr="http://119.23.22.79/2b/"/>
+    <Server addr="http://bbs.stage1.cc/"/>
   </ServerList>
   <ObsoleteServerList>
     <Server addr="http://220.196.42.167/2b/"/>
