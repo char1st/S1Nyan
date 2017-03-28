@@ -3,6 +3,9 @@
   <Message></Message>
   <ServerList>
     <Server addr="http://bbs.saraba1st.com/2b/"/>
+    <Server addr="http://www.saraba1st.com/2b/"/>
+    <Server addr="http://www.stage1st.com/2b/"/>
+    <Server addr="https://www.stage1st.com/2b/"/>
   </ServerList>
   <ObsoleteServerList>
     <Server addr="http://119.23.22.79/2b/"/>
